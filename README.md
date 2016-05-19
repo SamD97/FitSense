@@ -1,2 +1,2 @@
 # UNDERFed
-UNmanneD ExpeRimentaldata Fitting
+UNmanneD ExpeRimental data Fitting
