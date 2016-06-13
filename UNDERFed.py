@@ -1,4 +1,4 @@
-# FitSense v1.0
+# UNDERFed v1.0
 # By Saumil Shah
 
 import os
@@ -12,9 +12,9 @@ def initMeal():
     print ('')
     print (' {}'.format('='*55))
     print ('')
-    print (' {:^55s}'.format('FitSense v1.0'))
+    print (' {:^55s}'.format('UNDERFed v1.0'))
     print ('')
-    print ('     FitSense aims to automatize the process of data    ')
+    print ('     UNDERFed aims to automatize the process of data    ')
     print ('     fitting in bulk and provides several assesmants    ')
     print ('             to evaluate the goodness-of-fit.           ')
     print ('')
@@ -156,9 +156,3 @@ while i < no_f:
     digestData()
     
     i += 1
-    
-    
-
-        
-        
-    
